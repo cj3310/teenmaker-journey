@@ -91,10 +91,10 @@
 第 22 章 参加科创竞赛  
 
 
-## 🔗 软件下载链接
-百度网盘: https://pan.baidu.com/s/1oTDw3o7UG9zbFF3VVtPktQ?pwd=9527 提取码: 9527 
-123网盘：https://1780771.share.123pan.cn/123pan/9pX9-HG3oH?pwd=9527#
-夸克网盘：https://pan.quark.cn/s/44a605fd2327?pwd=eWcV    提取码：eWcV
+## 🔗 配套安装软件下载链接  
+百度网盘: https://pan.baidu.com/s/1oTDw3o7UG9zbFF3VVtPktQ?pwd=9527 提取码: 9527   
+123网盘：https://1780771.share.123pan.cn/123pan/9pX9-HG3oH?pwd=9527#  
+夸克网盘：https://pan.quark.cn/s/44a605fd2327?pwd=eWcV    提取码：eWcV  
 
 ## 🔗 官方全渠道入口
 ### 🎬 B站配套教学视频
