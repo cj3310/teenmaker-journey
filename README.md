@@ -183,7 +183,7 @@ B站空间：https://space.bilibili.com/432375187<br>
 华信教育资源网（课件、PPT、习题答案、工程素材下载）：https://www.hxedu.com.cn/
 
 ### 🌐 作者官方网站
-青少年创客之旅官网：https://www.ck985.com<br>
+青少年创客之旅网：https://www.ck985.com<br>
 创客课程规划、科创空间建设、竞赛辅导、师资培训一站式咨询平台。
 
 ## ✨ 仓库配套资源目录（本书全部开源素材）
