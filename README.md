@@ -4,6 +4,7 @@
 > ISBN：9787121525261｜定价59元｜全彩印刷｜全书268页
 > 配套完整源码、电路图纸、教学课件、科创竞赛全套素材
 
+<img width="729" height="1001" alt="封面最终定稿_2026-06-08_21-05-37" src="https://github.com/user-attachments/assets/754b4947-5d6d-4eb6-b03a-679dbf36b8d5" />
 
 
 <div align="center">
